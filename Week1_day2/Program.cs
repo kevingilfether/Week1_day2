@@ -50,6 +50,12 @@ namespace Week1_day2
             // >= Greater than or equal to
             // <= Less than or equal to
 
+            // LOGICAL OPERATORS 
+            // && Logical AND
+            // || Logical OR
+            // ! Logical NOT
+            // Remember your truth tables and the syntax, and you'll be groovy
+
         }
     }
 }
