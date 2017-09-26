@@ -29,6 +29,27 @@ namespace Week1_day2
             Console.WriteLine(number);
             Console.WriteLine(partialNum);
             Console.WriteLine(someNumber);
+
+            // Operator Time ( +, -, <, >, etc)
+            // ARITHMETIC OPERATORS
+            // + adds operands
+            // - subtracts the second operand from the first
+            // * multiplies
+            // / divides the dividend by the divisor (first operand by second operand)
+            // % - modulus, returns remainder of whole number division
+            // ++ increments operator by 1, and is usually used for ints
+            // -- decrements value by one
+
+            // RELATIONAL OPERATORS
+            // == Checks if the values of two operands are equal
+                // and returns bool true in case they are
+            // != Checks if two things are not equal
+                // if they are not equal, returns bool true
+            // > Checks if left operand is greater than the right operand, returns true if so
+            // < Checks if right operand is greater than the left operand, returns true if so
+            // >= Greater than or equal to
+            // <= Less than or equal to
+
         }
     }
 }
